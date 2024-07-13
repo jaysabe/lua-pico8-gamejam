@@ -1,4 +1,4 @@
-## PCC Makerspace OMIC Training Camp - STEAM for 9th Graders##
+## PCC Makerspace OMIC Training Camp - STEAM for 9th Graders
 Welcome to the Portland Community College Makerspace OMIC Training Camp! This two-day camp was designed to introduce 9th-grade students to the exciting world of STEAM (Science, Technology, Engineering, Arts, and Mathematics) through hands-on projects and interactive learning.
 
 ## Camp Overview
