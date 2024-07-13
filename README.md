@@ -2,16 +2,12 @@
 Welcome to the Portland Community College Makerspace OMIC Training Camp! This two-day camp was designed to introduce 9th-grade students to the exciting world of STEAM (Science, Technology, Engineering, Arts, and Mathematics) through hands-on projects and interactive learning.
 
 ## Camp Overview
-Day 1: Game Development with pico8
+### Day 1: Game Development with pico8
 On the first day, students learned the basics of game development using pico8, a fantasy console for making, sharing, and playing tiny games and other computer programs. They coded their own adventure game, gaining valuable programming skills and understanding game design principles.
 
-## Program: adventure(8).p8
-Description: This program is a simple adventure game where players navigate through various challenges. Students learned to create sprites, design levels, and implement game logic.
-Day 2: Embedded Programming with Microbits
+### Day 2: Embedded Programming with Microbits
 The second day focused on embedded programming with microbits, small programmable devices used for teaching coding and electronics. Students worked on an interactive project called "Rain Game," which introduced them to the basics of hardware programming.
 
-## Program: raingame.hex
-Description: This program is a rain simulation game where the microbit detects "rain drops" and responds with appropriate actions. Students learned to write code that interacts with the microbit’s sensors and display.
 ### Equipment and Activities
 The camp took place at the OMIC Fab Lab, equipped with a variety of tools and machines, including:
 - Prusa 3D printers
@@ -25,8 +21,9 @@ The camp took place at the OMIC Fab Lab, equipped with a variety of tools and ma
 
 Students had the opportunity to see these tools in action and understand their applications in real-world STEAM projects.
 
-## Programs
-### adventure(8).p8
+## Program: adventure(8).p8
+Description: This program is a simple adventure game where players navigate through various challenges. Students learned to create sprites, design levels, and implement game logic.
+
 ```lua
 
 -- Adventure Game for pico8
@@ -166,7 +163,8 @@ function spritecollide(xp,yp,xe,ye)
 end
 ```
 
-### raingame.hex 
+## Program: raingame.hex
+Description: This program is a rain simulation game where the microbit detects "rain drops" and responds with appropriate actions. Students learned to write code that interacts with the microbit’s sensors and display.
 *Note: was exported from Microbit Editor into [hex code](https://python.microbit.org/v/3).*
 ```python
 # Rain Game for microbit
