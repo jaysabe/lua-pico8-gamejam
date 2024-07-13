@@ -26,7 +26,7 @@ The camp took place at the OMIC Fab Lab, equipped with a variety of tools and ma
 Students had the opportunity to see these tools in action and understand their applications in real-world STEAM projects.
 
 ## Programs
-###adventure(8).p8
+### adventure(8).p8
 ```lua
 
 -- Adventure Game for pico8
